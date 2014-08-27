@@ -1,0 +1,24 @@
+---
+title: "Academic research partners"
+output: html_document
+---
+
+![JJ](https://avatars0.githubusercontent.com/u/7501611?v=2&s=460) 
+
+[Dr. Juanjo Medina](http://www.manchester.ac.uk/research/juanjo.medina/) is Senior Lecturer in criminology at the University of Manchester. He has conducted violence against women research in Spain, the US, and the UK. He was the lead research in the first national survey on intimate partner violence in Spain. In the US he worked with the New York City Public Health Department to develop spatial models using hospital data aiming to understand the social geography of violence against women. He also worked in the research department of Victim Services where he was part of research teams evaluating court-ordered batterer programs and police responses to elder abuse. In the UK he collaborated with Russell and Rebecca Dobash in studies trying to understand the differences between lethal and non-lethal domestic violence, as well as the developmental trajectories of perpetrators of domestic homicides. He has extensive knowledge of advanced statistical modelling, particularly with the R programming language.
+
+![Miles](http://www.law.ox.ac.uk/images/profilepics/caroline.miles.jpg) 
+
+[Dr. Caroline Miles](http://www.manchester.ac.uk/research/caroline.miles/) is Lecturer in criminology at the University of Manchester. Her research has focused on suicide, homicide and domestic violence with a particular focus on using police and public health data. In particular, her work has explored the role of intoxication in homicides and in documenting the extent of adolescent to parent violence.
+
+![Louise](http://www.birmingham.ac.uk/Images/Staff/profiles/psychology/dixon-louise.jpg)
+
+[Dr. Louise Dixon](http://www.birmingham.ac.uk/staff/profiles/psychology/dixon-louise.aspx) is a Senior Lecturer in forensic psychology at the University of Birmingham.  Louise specialises in the prevention of violence, her work has specifically focused on intimate partner aggression and group and gang related aggression. She enjoys an active research profile which has contributed to training, practice and policy in these areas. She has recently led and been involved with several funded projects. These include an outcome evaluation of police led multi-agency screening of domestic violence cases, an exploration of the sexual experiences of British urban youth and an investigation of gang life in Birmingham.
+
+![Keri](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/024/391/166345a.jpg) 
+
+[Dr. Keri Nixon](https://www.linkedin.com/pub/dr-keri-nixon/31/969/624) is Head of Research and Behavioural Advice at Cheshire Constabulary and Chester University. During her PhD work she was funded by an ESRC CASE award to develop a risk identification toolkit (MeRIT) that is now the force wide risk assessment in Merseyside and is used by multi-agencies across the region.  This work has led to Keri training police officers in domestic abuse investigation, risk assessment and homicide prevention, in Merseyside and nationally. 
+
+![Ken](http://www.phonewatch.ie/system/files/158/custom/ken-pease.png?1359995855) 
+
+Prof. Ken Pease is currently Visiting Professor of Crime Science at the UCL Department of Security and Crime Science, University College London and at the University of Loughborough. He has held chairs at the Universities of Manchester and Saskatchewan and also hold research positions at the Home Office, where he acted as Head of the Police Research Group . He retains his practising certificate as a forensic psychologist. He has co-authored over 200 publications in which he has demonstrated a rigorous concern with applied scientific knowledge, particularly in the area of victimisation.
